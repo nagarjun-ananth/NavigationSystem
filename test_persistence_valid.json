@@ -1,0 +1,54 @@
+{
+	"waypoints": [
+		{
+			"name": "Amsterdam",
+			"latitude": 52.3702,
+			"longitude": 4.8952
+		},
+		{
+			"name": "Berlin",
+			"latitude": 52.52,
+			"longitude": 13.405
+		},
+		{
+			"name": "Darmstadt",
+			"latitude": 49.8728,
+			"longitude": 8.6512
+		},
+		{
+			"name": "Tokyo",
+			"latitude": 35.6895,
+			"longitude": 139.692
+		}
+	],
+	"pois": [
+		{
+			"name": "Mathildenhöhe",
+			"latitude": 49.8768,
+			"longitude": 8.66756,
+			"type": "SIGHTSEEING",
+			"description": "Beautiful location"
+		},
+		{
+			"name": "RWTH Aachen",
+			"latitude": 50.7802,
+			"longitude": 6.06591,
+			"type": "UNIVERSITY",
+			"description": "Good university"
+		},
+		{
+			"name": "Sitte",
+			"latitude": 11,
+			"longitude": 22,
+			"type": "RESTAURANT",
+			"description": "Good but expensive"
+		},
+		{
+			"name": "Tokyo",
+			"latitude": 35.6895,
+			"longitude": 139.692,
+			"type": "SIGHTSEEING",
+			"description": "city of anime"
+		}
+	]
+}

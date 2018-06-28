@@ -1,0 +1,7 @@
+SIGHTSEEING;Mathildenhöhe;Beautiful location;49.8768;8.66756
+RESTAURANT; Mensa HDA; The best Mensa in the world; 10,0; 20,0
+SIGHTSEEING, Nandi Hills, Beautiful view of sunrise and sunset
+UNIVERSITY,RWTH Aachen,Good university,50.7802,6.06591
+RUCKSACK,Heidelberg University,One of the oldest,49.4193,8.67019
+GASSTATION, Shell , Good quality fuel , 49.8167 , 8.6uyt
+RESTAURANT,Sitte,Good but expensive, 11 , 22

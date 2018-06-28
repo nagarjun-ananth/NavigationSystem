@@ -1,0 +1,8 @@
+Amsterdam,52.3702,4.8952 
+Berlin, 52.52 , 13.405
+Darmstadt; 49.8728; 8.6512
+Heidelberg University;49,4193;8,0
+Tokyo, 35.6895
+Tokyo, Beijing, 35.6895, 67.8
+Tokyo, 35.6895, 9.0xyz
+Tokyo, 35.6895, 139.6917
